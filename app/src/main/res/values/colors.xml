@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorSecondary">#283593</color>
+    <color name="colorScrim">#80434343</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorDivider">#E7E7E7</color>
+    <color name="colorStepDivider">#BDBDBD</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="darkSurface">#202020</color>
+</resources>

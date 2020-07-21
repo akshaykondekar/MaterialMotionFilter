@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaterialMotionFilter</string>
+    <string name="offer_section">Upto 50% Off</string>
+    <string name="sort_by">Sort by</string>
+    <string name="popularity">Popularity</string>
+    <string name="better_discount">Better Discount</string>
+    <string name="price_high_low">Price : High - Low</string>
+    <string name="price_low_high">Price : Low - High</string>
+    <string name="apply">apply</string>
+</resources>
